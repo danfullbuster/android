@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nave espacial</string>
+    <string name="hello_world">¡Hola, mundo!</string>
+</resources>
+
+<resources>
+    <string name="app_name">Nave espacial</string>
+    <string name="hello_world">¡Hola, mundo!</string>
+</resources>
+
+<resources>
+    <string name="app_name">Spacecraft</string>
+    <string name="hello_world">Hello, world!</string>
+</resources>
+
+<resources>
+    <string name="app_name">Engin spatial</string>
+    <string name="hello_world">Bonjour, le monde!</string>
+</resources>
